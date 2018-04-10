@@ -2,7 +2,11 @@
 
 ## Instruções
 
-`git clone https://github.com/jruizvar/xp-investimento.git`
+```bash
+git clone https://github.com/jruizvar/xp-investimento.git
+cd xp-investimento
+jupyter notebook solution.ipynb
+```
 
 ## Requerimentos de software
 
@@ -13,6 +17,6 @@
 - [Scikit-plot](https://github.com/reiinakano/scikit-plot) (0.3.4)
 - [Scikit-learn](http://scikit-learn.org) (0.19.1)
 
-## Solução
+## Documentação
 
-Explicações detalhadas da solução no [Link](solution.ipynb).
+Explicações detalhadas da solução junto com o código de análise no [Link](solution.ipynb).
